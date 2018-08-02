@@ -2,7 +2,7 @@
 path: "/my-first-post"
 date: "2018-08-02T22:35:00Z"
 title: "Gatsbyとgithub pagesでブログをつくった"
-tags: []
+tags: ["React"]
 excerpt: "Gatsbyとgithub pagesでブログを作成してみた"
 ---
 
